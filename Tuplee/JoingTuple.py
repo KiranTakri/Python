@@ -1,0 +1,7 @@
+t1=(1,3,5,7,9)
+t2=(2,4,6,8,10)
+l1=list(t1)
+l2=list(t2)
+l1.extend(l2)
+t1=tuple(l1)    
+print(t1)
