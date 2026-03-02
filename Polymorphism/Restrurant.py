@@ -1,3 +1,4 @@
+#DuckTyping
 class WelcomeDrinks:
     def menu(self):
         print("This is the welcome drinks menu")
