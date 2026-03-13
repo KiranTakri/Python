@@ -1,3 +1,5 @@
 Hi
 Good Morning
 Welcome to Python
+This is append mode
+This will be added at the end of the file
